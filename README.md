@@ -1,13 +1,13 @@
-# qtum-opcodes-js
+# digiwage-opcodes
 The DigiWage opcodes map
 
 ## Installation
 ``` bash
-npm install qtum-opcodes
+npm install digiwage-opcodes
 ```
 
 ## Setup
 ### Node.js
 ``` javascript
-var ops = require('qtum-opcodes')
+var ops = require('digiwage-opcodes')
 ```
