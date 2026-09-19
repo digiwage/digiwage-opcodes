@@ -1,5 +1,5 @@
 # qtum-opcodes-js
-The QTUM opcodes map
+The DigiWage opcodes map
 
 ## Installation
 ``` bash
